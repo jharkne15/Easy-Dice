@@ -18,4 +18,4 @@ client.on('message', message => {
 });
 
 
-client.login('NzI1OTAxODM4NDYwNjQ5NTE0.XvZxUw.tICujXtP-dHxJ0YI-wlIahZvAqI');
+client.login('Token');
